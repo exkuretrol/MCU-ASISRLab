@@ -118,7 +118,7 @@ const ContactForm = () => {
 const Footer = () => {
   return (
     <footer className="py-4 shadow-md border-t border-slate-200 items-center justify-center flex">
-      <p className="text-base text-gray-500 font-sans">Made with ♥️ by <a href="https://www.github.com/exkuretrol" className="font-bold underline decoration-2 decoration-indigo-500/50 underline-offset-4" target="_blank">Kuaz</a></p>
+      <p className="text-base text-gray-500 font-sans">Made with ♥️ by <a href="https://www.github.com/exkuretrol" className="font-bold underline decoration-2 decoration-indigo-500/50 underline-offset-4" target="_blank" rel="noreferrer">Kuaz</a></p>
     </footer>
   )
 }
